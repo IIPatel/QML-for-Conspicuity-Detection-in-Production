@@ -34,7 +34,7 @@ Ensure your repository does not contain any personal or team tokens/access infor
 ### Team Information:
 Team Member 1:
  - Full Name: Ibrahim Patel
- - Womanium Program Enrollment ID: WQ24-KyvkYhIt4tpCJVX
+ - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx): WQ24-KyvkYhIt4tpCJVX
 
 ### Project Solution:
 _Include a comprehensive summary of all important information about your project solution here._
