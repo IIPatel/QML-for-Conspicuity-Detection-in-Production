@@ -54,7 +54,7 @@ This project, part of the Womanium Quantum+AI 2024 program in collaboration with
 4. Applying quantum machine learning to an industrial dataset for defect detection
 
 ### Task Submissions:
-### [Task 1: PennyLane Familiarization]()
+### [Task 1: PennyLane Familiarization](https://github.com/IIPatel/QML-for-Conspicuity-Detection-in-Production/blob/main/Task_1.ipynb)
 ### [Task 2: Implementations of Variational Classifiers]()
 ### [Task 3: Quanvolutional Neural Networks]()
 ### [Task 4: Quantum Model for Sine Function]()
