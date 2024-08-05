@@ -44,6 +44,23 @@ Team Member 1:
 _Include a comprehensive summary of all important information about your project solution here._
 All necessary code files and any additional information required to judge your project solution should be included in the repository. 
 
+This project, part of the Womanium Quantum+AI 2024 program in collaboration with Fraunhofer ITWM, focuses on applying quantum machine learning techniques to conspicuity detection in production processes.
+
+### Goals
+
+1. Familiarization with Pennylane
+2. Implementing basic quantum machine learning workflows
+3. Developing a custom quantum model for function approximation (sine function)
+4. Applying quantum machine learning to an industrial dataset for defect detection
+
+### Task Submissions:
+### [Task 1: PennyLane Familiarization]()
+### [Task 2: Implementations of Variational Classifiers]()
+### [Task 3: Quanvolutional Neural Networks]()
+### [Task 4: Quantum Model for Sine Function]()
+### [Task 5: QML for an Industrial Dataset]()
+   
 ### Project Presentation Deck:
 _Link a 5min. presentation recording or deck here._
 
+### [Presentation]()
