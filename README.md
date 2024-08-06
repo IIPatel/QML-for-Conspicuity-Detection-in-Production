@@ -61,6 +61,8 @@ This project, part of the Womanium Quantum+AI 2024 program in collaboration with
 ### [Task 5: QML for an Industrial Dataset](https://github.com/IIPatel/QML-for-Conspicuity-Detection-in-Production/blob/main/Task_5.ipynb)
    
 ### Project Presentation Deck:
-_Link a 5min. presentation recording or deck here._
+_Upload/ Link a 3min. presentation deck here._
+
+See project presentation guidelines [here](https://docs.google.com/document/d/13nWF8AxFAfFYTWEYPT3BpPdYkqtxxSAjmuXj_zcMh-E/edit?usp=sharing)
 
 ### [Presentation](https://github.com/IIPatel/QML-for-Conspicuity-Detection-in-Production/blob/main/QML_Presentation_Deck.pdf)
