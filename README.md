@@ -44,7 +44,7 @@ Team Member 1:
 _Include a comprehensive summary of all important information about your project solution here._
 All necessary code files and any additional information required to judge your project solution should be included in the repository. 
 
-This project, part of the Womanium Quantum+AI 2024 program in collaboration with Fraunhofer ITWM, focuses on applying quantum machine learning techniques to conspicuity detection in production processes.
+This project, part of the Womanium Quantum+AI 2024 program, focuses on applying quantum machine learning techniques to conspicuity detection in production processes.
 
 ### Goals
 
