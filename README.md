@@ -58,11 +58,11 @@ This project, part of the Womanium Quantum+AI 2024 program in collaboration with
 ### [Task 2: Implementations of Variational Classifiers](https://github.com/IIPatel/QML-for-Conspicuity-Detection-in-Production/blob/main/Task_2.ipynb)
 ### [Task 3: Quanvolutional Neural Networks](https://github.com/IIPatel/QML-for-Conspicuity-Detection-in-Production/blob/main/Task_3.ipynb)
 ### [Task 4: Quantum Model for Sine Function](https://github.com/IIPatel/QML-for-Conspicuity-Detection-in-Production/blob/main/Task_4.ipynb)
-### [Task 5: QML for an Industrial Dataset](https://github.com/IIPatel/QML-for-Conspicuity-Detection-in-Production/blob/main/Task_5.ipynb)
+### ~[Task 5: QML for an Industrial Dataset](https://github.com/IIPatel/QML-for-Conspicuity-Detection-in-Production/blob/main/Task_5.ipynb)~
    
 ### Project Presentation Deck:
 _Upload/ Link a 3min. presentation deck here._
 
 See project presentation guidelines [here](https://docs.google.com/document/d/13nWF8AxFAfFYTWEYPT3BpPdYkqtxxSAjmuXj_zcMh-E/edit?usp=sharing)
 
-### [Presentation](https://github.com/IIPatel/QML-for-Conspicuity-Detection-in-Production/blob/main/QML_Presentation_Deck.pdf)
+### [Presentation](https://gamma.app/docs/Quantum-Machine-Learning-for-Conspicuity-Detection-in-Production-q4zwfw6ovmku1no)
